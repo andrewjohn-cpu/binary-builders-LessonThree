@@ -1,0 +1,11 @@
+html - tags and elements(<>), paragraph tag(<p>), headings tag(<h1></h1>, <h2></h2>, <h3></h3>, <h4></h4>, <h5></h5>, <h6></h6>)
+git collaboration, developer, systematic, 
+github collaboration, wide-range, developers
+install: sudo apt-get/apt install git
+setup git: create github account, configure github with local git on machine/device
+git config --global user.name "<github_username>"
+git config --global user.email "<github_email>"
+create ssh key:
+css
+bootstrap
+liveserver
